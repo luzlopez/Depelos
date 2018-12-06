@@ -1,0 +1,40 @@
+
+.titulo-tarjeta {
+	font-family: 'Playfair Display', serif;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px #757575;
+	font-size: 5em;
+
+}
+
+
+
+
+.seccion1{
+
+	height: 100vw;
+	background: url(assets/img/post1.jpg)  no-repeat center / cover transparent;
+	text-align: center;
+	margin-bottom: 10px;
+	
+
+}
+
+
+.seccion1 .tarjeta{
+
+	display: inline-block;
+	padding: 20px;
+	padding-top: 50px;
+	margin-left: 20px margin-right:20px; 
+
+	text-align: center;
+	background-color: rgba(0,0,0,.5);
+	color:white;
+	width: 100vw;
+	font-family: 'Playfair Display', serif;
+
+
+}
+
